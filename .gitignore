@@ -14,5 +14,5 @@ word2gauss/embeddings.cpp
 .coverage
 .idea
 
-
-
+venv/
+modelfiles/
